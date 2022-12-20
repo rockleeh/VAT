@@ -22,46 +22,6 @@ VIDEO_ASSESSMENT_TOOL --config testcases.json
 
 git remote add origin https://gitlab.com/hamed.gara/vat.git
 git branch -M main
-t7eb ala retour ? un simple coeur pour dire que j'ai adoré te suffit pas ? sinon ta3malhom ? jte connais.
-je ne suis pas dans le mood, khedma wtarafni ghatis, méniich mtayech fel farch chéd ttélifouni 
-wma3andi manasna3.
-Emna éna Yé2is wallah, 3ayef ro7i, mezelt taya7, wau plu bas, té3eb wje ressens que du mal, en permanance.
-Pour un putin de voyage, qui va me rendre encore plus heureux, et très decu, limite je m'en voudrais
-a mort si je le rate. temchi tu retire izzéyed li7attitou..
-tozz fehom l'flous, wsa55 ddenya, njibhom wnziid njiib 1000 menhom, nchallah, wéna metfé2el bhédha.
-  
-nji n7ott ro7i fi blastek, nchoufek kifé t5ammem wkifé 9a3da tet3ayech maaya, 
-wlh je trouve annek mat7ebbniich, ok t7ebbni ama wallah bel ghalet, 
-éna jveux pas de ca ya Emna, ayy ma5louu9 ynajjem y7ebbni kima 9a3da enti t7ebb feyya.
-a chaque fois, a chaque fois ba3d koll 3arka netouja3 féha, je prends sur moi wn9oul misélech, 
-hana nefhmou fi b3adhna wca vaut le coup wya moin de douleurs a chaque mounewcha,
-Lé ! je me trompe, li3echtou ces 48h 3omri ma3echt a5yeb mennou fi 30 sné, 
-rja3t na9ra fiddiscussion wnesta7dher felli saar nal9a ro7i na7ki m3a chitan mouch m3a Emna lit7ebbni 
-w7asbetni kirajelha. raw l'intensité wkimiyet l'bké libkitou nharetHa 3omri bela3morr la3echt kifha,
-Matsawartech n3ichHa WMAN7EBBECH n3iichHa. 
-Ok dsl ok dsl ok dsl ok zéda 3al klém linasm3ou ba3d koll dsl.
-ma3adech Emna, je npeu plu prendre au serieux klémek, AA chaque fois t3awed totlob le max menni,  
-matar7amniich, matseyesniich, tamalli dha8t ala 7aja sghiiiir matest7a9ech lit3ayechHouli mba3dHa, 
-matefhemniich wmat7otech ro7ek fi blasti, ta3fes wmakch houni, wallah ! lék houni.
-Tziid tdhaya9homli bnafs ddegret et ca ne fait qu'augmenter mes douleurs a chaque fois.
-5ater toujours ! si on inverse les roles matra menni 7atta 5ayeb melli ritou mennek.
-ET C TJR PAREIL ! klémek lbéhi ma3ach ytouchi, ma3ach y3ather, SANS valeur.
-Ca m'a rapeller ya 10ans ki9otlek "je ne ressens plus rien quand je te prends par la main" 
-khatrek tu m'a jamais pris au serieux.
-ca differe mtn, tu me prends au serieux, t7eb t3arres beya ama mayhemmekch feya, tant que enti jawek béhi,
-comblée, satifaite ? éna aussi nkoun jawi béhi. 
-ama kiton9sek 7aja, mm si teeeeeeefha won sais bien que heya teeeefha, t3adhabni, ta7ra9ni, tem3esli 9albi 
-liin tbakkini bké 3omri labkitou.
-a9all 7aja ton9sek walla testannéha menni wmatal9ahéch ! je suis foutu, et je crain ca, wallah khayef ya Emna.
-Ena 3ayech fer7aan maak, en general, satisfait wne7med fi rabbi, 
-ama man7ebech n3awed n3iich l'khayeb wnrak tetsarref bel 5ayeb maaya.
-aman ! n7ebbek rani, wta3ref li9a3ed je fais de mon mieux béch nassuri notre avenir fel bonheur.
-Ata9ni aman, saffi 7annen 9albek m3aya 7atta fel mounéwchét, 7ebbni kima n7ebbek, 
-efhemni afra7li wseyesni, menghiir ces arieres pensés waf3alik limajéw chay.
-hédha chtalib men awel mounewcha saret, 
-a chaque fois n7essek fhemtni wsurtout ba3d likléém linasm3ou mennek, nitméén wnetHana.
-REBELOOOTE, je me dis "chneya hédha 3léh hakka, chbéha tamel m3aya hakka" je n'comprends plus Emna,
-Je npeu plus prendre tes jolies mots au serieux bb. 
 
 git push -uf origin main
 
